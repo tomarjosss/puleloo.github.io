@@ -136,7 +136,7 @@
         <div class="box">✔ Cabañas totalmente equipadas</div>
         <div class="box">✔ Cocina completa</div>
         <div class="box">✔ Wi-Fi incluido</div>
-        <div class="box">✔ Estacionamiento privado</div>
+        <div class="box">✔ Estacionamiento</div>
         <div class="box">✔ Ropa de cama y toallas</div>
         <div class="box">✔ Agua caliente</div>
     </div>
@@ -190,11 +190,11 @@
     <h2>Testimonios</h2>
 
     <div class="testimonio">
-        “Excelente lugar para descansar, muy cómodo y limpio.”
+        “La cabaña increible, tiene de todo, super limpio, camas impecables. Entorno super tranquilo y un cielo nocturno soñado. Ismael y su esposa excelentes anfitriones. Definitivamente volveré si vengo a la isla”
     </div>
 
     <div class="testimonio">
-        “Muy buena atención y ubicación, totalmente recomendable.”
+        “Excelente cabaña, todo impecable, totalmente recomendable. Nos quedamos con mi esposa y mis dos hijos al llegar a la isla y el último dia antes de regresar a Viña.”
     </div>
 </section>
 
@@ -203,7 +203,7 @@
     <h2>Contacto</h2>
     <p>📍 Dirección: [Tu dirección aquí]</p>
     <p>📞 Teléfono / WhatsApp: +56 9 XXXXXXXX</p>
-    <p>✉ Email: contacto@cabanaspulelo.cl</p>
+    <p>✉ Email: cabanaspulelo18@gmail.com</p>
 </section>
 
 <!-- PIE DE PÁGINA -->
